@@ -1,0 +1,4 @@
+﻿Regime,Contexts_Evaluated,Replicates_Per_Cell,Within_Noise_RBO,Between_Persona_RBO,Between_Persona_Jaccard,Shared_POIs_Out_Of_10,NPI_RBO,NNPI_RBO,Delta_K10_Slots,Mean_Gini_OSM
+"Batch_B1_Full_48Contexts (tau=0.7, N=5,752)",48,3,0.644,0.3816,0.2995,4.3,0.2625,0.4148,2.21,0.7149
+"Batch_B1_Matched_12Contexts (tau=0.7, N=1,438)",12,3,0.7022,0.4625,0.3508,4.9,0.2397,0.3469,2.06,0.7414
+"Batch_B5_Greedy_12Contexts (tau=0.0, N=1,440)",12,3,0.7202,0.4667,0.3549,4.94,0.2535,0.3566,2.06,0.7463

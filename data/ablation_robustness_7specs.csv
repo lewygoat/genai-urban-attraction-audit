@@ -1,0 +1,8 @@
+﻿Spec_ID,Specification,Mean_NPI_RBO,Mean_Gini_OSM,NB_Amplification_Beta
+S1_Baseline_B1,"S1: Main Factorial Baseline (Batch B1, p=0.85, T=0.7, N=5,752)",0.2625,0.7149,0.2364
+S2_RBO_p080,S2: Top-Heavy Persistence (RBO p=0.80 + Equal-Cap M=15 Gini + Wikidata Sitelinks NB2),0.2647,0.6168,0.716
+S3_RBO_p090,S3: Deep-Rank Persistence (RBO p=0.90 + Full-OSM Gini + Wiki Doc-Bytes NB3),0.2601,0.9888,0.2186
+S4_CrossLingual_B3_B3b,"S4: Cross-Lingual 2x2 Control (Batches B3+B3b, N=1,440)",0.2387,0.7538,0.2554
+S5_Paraphrase_B4,"S5: Paraphrased Prompt Templates T2/T3 (Batch B4, N=960)",0.0978,0.7663,0.2875
+S6_TempZero_B5,"S6: Greedy Decoding Temperature=0.0 Control (Batch B5, 3 reps/cell, N=1,440)",0.2535,0.7463,0.2431
+S7_IntraDay_Retest_B6,"S7: Intra-Day Temporal Stability Retest (Batch B6, median lag 7.8h, max 11.4h, N=480)",0.2287,0.7509,0.2354

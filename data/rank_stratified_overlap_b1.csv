@@ -1,0 +1,5 @@
+﻿Depth_k,k,Within_Jaccard_at_k,Between_Jaccard_at_k,Jaccard_Ratio_Bet_over_Within,Within_SlotAgreement_at_k,Between_SlotAgreement_at_k,Net_Slot_Turnover_at_k
+Top-1,1,0.6156,0.3429,0.5571,0.6156,0.3429,0.273
+Top-3,3,0.5426,0.2781,0.5126,0.6471,0.3724,0.824
+Top-5,5,0.5364,0.2831,0.5278,0.6595,0.3965,1.315
+Top-10,10,0.5152,0.2995,0.5813,0.6515,0.4304,2.211

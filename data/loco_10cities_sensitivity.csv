@@ -1,0 +1,11 @@
+﻿dropped_city_id,dropped_city,dropped_richness,Mean_NPI_RBO,Mean_Gini_OSM,Scarce_minus_Rich_Gini,NB_Amplification_Beta
+BJS,Beijing,Info-Rich,0.2647,0.709,0.0437,0.2114
+SHA,Shanghai,Info-Rich,0.2626,0.7176,0.0283,0.2406
+CTU,Chengdu,Info-Rich,0.2635,0.7131,0.0364,0.1949
+QZJ,Quanzhou,Info-Scarce,0.2703,0.7104,0.0234,0.2333
+DLU,Dali,Info-Scarce,0.2763,0.7077,0.0152,0.2401
+PAR,Paris,Info-Rich,0.2552,0.7184,0.0268,0.2243
+TYO,Tokyo,Info-Rich,0.2522,0.7203,0.0233,0.4662
+BCN,Barcelona,Info-Rich,0.2578,0.7189,0.0259,0.226
+OPO,Porto,Info-Scarce,0.2618,0.7133,0.0323,0.2444
+CNX,Chiang Mai,Info-Scarce,0.2601,0.7199,0.052,0.2345

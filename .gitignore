@@ -1,0 +1,23 @@
+# Secrets and local environment variables (NEVER commit API keys)
+.env
+.env.local
+.env.*
+!.env.example
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.pytest_cache/
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.bak
+*.tmp

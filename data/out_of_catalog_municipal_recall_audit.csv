@@ -1,0 +1,41 @@
+﻿city_id,city,richness,model,InCatalog_Unique_N0,OutOfCatalog_Municipal_Unique,Total_Municipal_Unique_All,OutOfCatalog_Slot_Share_pct
+BJS,Beijing,Info-Rich,gpt-5.6-sol,35,16,51,14.51
+BJS,Beijing,Info-Rich,claude-sonnet-4-6,33,14,47,11.46
+BJS,Beijing,Info-Rich,deepseek-v4-pro-0813,34,13,47,11.18
+BJS,Beijing,Info-Rich,qwen3.7-flash,44,32,76,14.93
+SHA,Shanghai,Info-Rich,gpt-5.6-sol,46,24,70,13.96
+SHA,Shanghai,Info-Rich,claude-sonnet-4-6,44,18,62,7.29
+SHA,Shanghai,Info-Rich,deepseek-v4-pro-0813,43,32,75,11.11
+SHA,Shanghai,Info-Rich,qwen3.7-flash,48,32,80,14.31
+CTU,Chengdu,Info-Rich,gpt-5.6-sol,35,21,56,6.6
+CTU,Chengdu,Info-Rich,claude-sonnet-4-6,32,9,41,3.82
+CTU,Chengdu,Info-Rich,deepseek-v4-pro-0813,33,11,44,2.15
+CTU,Chengdu,Info-Rich,qwen3.7-flash,44,30,74,6.11
+QZJ,Quanzhou,Info-Scarce,gpt-5.6-sol,30,40,70,10.83
+QZJ,Quanzhou,Info-Scarce,claude-sonnet-4-6,30,13,43,1.11
+QZJ,Quanzhou,Info-Scarce,deepseek-v4-pro-0813,27,20,47,3.47
+QZJ,Quanzhou,Info-Scarce,qwen3.7-flash,32,101,133,12.85
+DLU,Dali,Info-Scarce,gpt-5.6-sol,36,22,58,3.06
+DLU,Dali,Info-Scarce,claude-sonnet-4-6,39,20,59,3.06
+DLU,Dali,Info-Scarce,deepseek-v4-pro-0813,31,17,48,4.31
+DLU,Dali,Info-Scarce,qwen3.7-flash,37,42,79,5.0
+PAR,Paris,Info-Rich,gpt-5.6-sol,39,15,54,8.19
+PAR,Paris,Info-Rich,claude-sonnet-4-6,41,10,51,4.24
+PAR,Paris,Info-Rich,deepseek-v4-pro-0813,42,10,52,5.07
+PAR,Paris,Info-Rich,qwen3.7-flash,52,20,72,4.58
+TYO,Tokyo,Info-Rich,gpt-5.6-sol,42,26,68,11.6
+TYO,Tokyo,Info-Rich,claude-sonnet-4-6,46,32,78,6.94
+TYO,Tokyo,Info-Rich,deepseek-v4-pro-0813,44,17,61,8.26
+TYO,Tokyo,Info-Rich,qwen3.7-flash,49,52,101,12.78
+BCN,Barcelona,Info-Rich,gpt-5.6-sol,40,16,56,3.75
+BCN,Barcelona,Info-Rich,claude-sonnet-4-6,40,11,51,2.99
+BCN,Barcelona,Info-Rich,deepseek-v4-pro-0813,36,7,43,2.5
+BCN,Barcelona,Info-Rich,qwen3.7-flash,46,49,95,6.94
+OPO,Porto,Info-Scarce,gpt-5.6-sol,33,22,55,5.56
+OPO,Porto,Info-Scarce,claude-sonnet-4-6,34,16,50,2.01
+OPO,Porto,Info-Scarce,deepseek-v4-pro-0813,31,11,42,2.01
+OPO,Porto,Info-Scarce,qwen3.7-flash,32,48,80,5.9
+CNX,Chiang Mai,Info-Scarce,gpt-5.6-sol,43,7,50,5.35
+CNX,Chiang Mai,Info-Scarce,claude-sonnet-4-6,42,27,69,4.83
+CNX,Chiang Mai,Info-Scarce,deepseek-v4-pro-0813,41,9,50,1.53
+CNX,Chiang Mai,Info-Scarce,qwen3.7-flash,33,162,195,20.62

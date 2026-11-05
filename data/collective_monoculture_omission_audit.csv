@@ -1,0 +1,11 @@
+﻿city_id,city,origin,richness,Mean_Single_ZeroVis_pct,All4_Omitted_Count,All4_Omitted_pct,Expected_Indep_pct,Perm_Null_Mean_pct,Excess_Omission_pp,Excess_Ratio_Obs_over_Exp,Perm_p_val
+BJS,Beijing,Domestic,Info-Rich,39.17,10,16.67,2.17,2.16,14.5,7.69,0.0005
+SHA,Shanghai,Domestic,Info-Rich,24.58,7,11.67,0.35,0.34,11.31,33.09,0.0005
+CTU,Chengdu,Domestic,Info-Rich,40.0,13,21.67,2.33,2.37,19.33,9.29,0.0005
+QZJ,Quanzhou,Domestic,Info-Scarce,50.42,22,36.67,6.42,6.47,30.25,5.71,0.0005
+DLU,Dali,Domestic,Info-Scarce,40.42,14,23.33,2.59,2.55,20.74,9.0,0.0005
+PAR,Paris,International,Info-Rich,27.5,4,6.67,0.44,0.46,6.22,15.04,0.0005
+TYO,Tokyo,International,Info-Rich,24.58,3,5.0,0.34,0.35,4.66,14.61,0.0015
+BCN,Barcelona,International,Info-Rich,32.5,12,20.0,1.04,1.1,18.96,19.29,0.0005
+OPO,Porto,International,Info-Scarce,45.83,23,38.33,4.4,4.43,33.94,8.72,0.0005
+CNX,Chiang Mai,International,Info-Scarce,33.75,10,16.67,1.21,1.17,15.46,13.76,0.0005

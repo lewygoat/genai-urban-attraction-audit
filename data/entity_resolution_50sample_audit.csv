@@ -1,0 +1,51 @@
+﻿sample_id,query_id,city_id,model,raw_surface_name,resolved_id,catalog_poi_name,similarity_score,slot_class,audit_verified
+ER_01,B1_00151,BCN,deepseek-v4-pro-0813,Mercat de la Boqueria,BCN_P32,Mercat de la Boqueria,1.0,A_in_catalog,1
+ER_02,B1_00329,TYO,gpt-5.6-sol,Ueno Park,TYO_P42,Ueno Park & Tokyo National Museum,1.0,A_in_catalog,1
+ER_03,B1_00443,QZJ,gpt-5.6-sol,晋江五店市传统街区,QZJ_P03,Jinjiang Wudian Traditional Block,1.0,A_in_catalog,1
+ER_04,B1_00530,PAR,gpt-5.6-sol,Eiffel Tower,PAR_P47,Eiffel Tower,1.0,A_in_catalog,1
+ER_05,B1_00679,PAR,deepseek-v4-pro-0813,Eiffel Tower,PAR_P47,Eiffel Tower,1.0,A_in_catalog,1
+ER_06,B1_00682,QZJ,deepseek-v4-pro-0813,泉州博物馆,QZJ_P45,Quanzhou Museum,1.0,A_in_catalog,1
+ER_07,B1_00740,PAR,gpt-5.6-sol,Arc de Triomphe,PAR_P42,Arc de Triomphe,1.0,A_in_catalog,1
+ER_08,B1_01272,CTU,qwen3.7-flash,玉林路,CTU_P03,Yulin Road Cultural Quarter,1.0,A_in_catalog,1
+ER_09,B1_01461,PAR,qwen3.7-flash,Le Marais District,PAR_P55,Le Marais & Place des Vosges,1.0,A_in_catalog,1
+ER_10,B1_01856,SHA,gpt-5.6-sol,上海博物馆东馆,SHA_P53,Shanghai Museum,1.0,A_in_catalog,1
+ER_11,B1_02039,TYO,gpt-5.6-sol,Nezu Museum,TYO_P27,Nezu Museum,1.0,A_in_catalog,1
+ER_12,B1_02050,CTU,deepseek-v4-pro-0813,都江堰,CTU_P48,Dujiangyan Irrigation System,1.0,A_in_catalog,1
+ER_13,B1_02235,DLU,qwen3.7-flash,大理古城人民路手作街,DLU_P10,Dali Ancient City,1.0,A_in_catalog,1
+ER_14,B1_02471,CTU,gpt-5.6-sol,四川科技馆（Sichuan Science and Technology Museum）,CTU_P37,Sichuan Science and Technology Museum,1.0,A_in_catalog,1
+ER_15,B1_02478,OPO,qwen3.7-flash,Beira-Rio Riverside Path,UNV::OPO_beirarioriversidepath,(Out-of-Catalog / Non-Catalog),0.0538,C_generic_activity_or_unverified,1
+ER_16,B1_02487,SHA,qwen3.7-flash,徐汇滨江,SHA_P46,West Bund Museum,1.0,A_in_catalog,1
+ER_17,B1_02827,CNX,deepseek-v4-pro-0813,MAIIAM Contemporary Art Museum,CNX_P07,MAIIAM Contemporary Art Museum (San Kamphaeng),1.0,A_in_catalog,1
+ER_18,B1_02897,OPO,gpt-5.6-sol,Livraria Lello,OPO_P10,Livraria Lello,1.0,A_in_catalog,1
+ER_19,B1_02909,TYO,gpt-5.6-sol,Ghibli Museum,TYO_P50,Ghibli Museum (Mitaka),1.0,A_in_catalog,1
+ER_20,B1_03208,TYO,deepseek-v4-pro-0813,Ueno Zoo,TYO_P26,Ueno Zoological Gardens,1.0,A_in_catalog,1
+ER_21,B1_03571,BCN,deepseek-v4-pro-0813,Arc de Triomf,BCN_P07,Parc de la Ciutadella & Arc de Triomf,1.0,A_in_catalog,1
+ER_22,B1_04125,DLU,qwen3.7-flash,白族非遗传承体验中心,UNV::DLU_白族非遗传承体验中心,(Out-of-Catalog / Non-Catalog),0.0,C_generic_activity_or_unverified,1
+ER_23,B1_04272,CTU,qwen3.7-flash,天府广场及周边文化带,OUT::CTU_Tianfu_Square,(Out-of-Catalog / Non-Catalog),0.0,B1_out_of_catalog_municipal,1
+ER_24,CL_B1_00377,DLU,claude-sonnet-4-6,蝴蝶泉,DLU_P51,Butterfly Spring Park,1.0,A_in_catalog,1
+ER_25,CL_B1_00521,BCN,claude-sonnet-4-6,Sagrada Família,BCN_P30,Basílica de la Sagrada Família,1.0,A_in_catalog,1
+ER_26,CL_B1_00561,BCN,claude-sonnet-4-6,Gothic Quarter and Barcelona Cathedral,BCN_P38,Barcelona Cathedral (Catedral de Barcelona),1.0,A_in_catalog,1
+ER_27,CL_B1_01305,PAR,claude-sonnet-4-6,Musée d'Orsay,PAR_P11,Musée d'Orsay,1.0,A_in_catalog,1
+ER_28,CL_B1_01781,OPO,claude-sonnet-4-6,Mercado do Bolhão,OPO_P27,Mercado do Bolhão,1.0,A_in_catalog,1
+ER_29,CL_B1_02641,BCN,claude-sonnet-4-6,Recinte Modernista de Sant Pau,BCN_P24,Hospital de Sant Pau Recinte Modernista,1.0,A_in_catalog,1
+ER_30,CL_B1_04377,DLU,claude-sonnet-4-6,巍山古城,DLU_P28,Weishan Ancient City,1.0,A_in_catalog,1
+ER_31,B2_00083,QZJ,gpt-5.6-sol,崇武古城,QZJ_P05,Chongwu Ancient City,1.0,A_in_catalog,1
+ER_32,B3_00266,SHA,gpt-5.6-sol,Yu Garden,SHA_P50,Yu Garden (Yuyuan),1.0,A_in_catalog,1
+ER_33,B3_00449,TYO,gpt-5.6-sol,Tokyo Toy Museum,OUT::TYO_tokyotoymuseum,(Out-of-Catalog / Non-Catalog),0.1167,B1_out_of_catalog_municipal,1
+ER_34,CL_B3_00205,BJS,claude-sonnet-4-6,Temple of Heaven,BJS_P45,Temple of Heaven,1.0,A_in_catalog,1
+ER_35,CL_B3_00669,QZJ,claude-sonnet-4-6,Chongwu Ancient City (崇武古城),QZJ_P05,Chongwu Ancient City,1.0,A_in_catalog,1
+ER_36,CL_B3_00721,BCN,claude-sonnet-4-6,Gothic Quarter (Barri Gòtic),BCN_P34,Gothic Quarter (Barri Gòtic),1.0,A_in_catalog,1
+ER_37,B3b_00132,PAR,qwen3.7-flash,Notre-Dame Cathedral Exterior,PAR_P50,Notre-Dame Cathedral,1.0,A_in_catalog,1
+ER_38,CL_B3b_00049,OPO,claude-sonnet-4-6,Ponte Dom Luís I (upper deck),OPO_P08,Dom Luís I Bridge (Ponte Luís I),1.0,A_in_catalog,1
+ER_39,B4_00578,PAR,deepseek-v4-pro-0813,Luxembourg Gardens,PAR_P03,Luxembourg Gardens (Jardin du Luxembourg),1.0,A_in_catalog,1
+ER_40,CL_B4_00241,BCN,claude-sonnet-4-6,Montjuïc Hill,BCN_P19,Montjuïc Castle & Magic Fountain,1.0,A_in_catalog,1
+ER_41,B5_00215,BJS,gpt-5.6-sol,恭王府,BJS_P38,Prince Gong's Mansion,1.0,A_in_catalog,1
+ER_42,B5_00466,OPO,deepseek-v4-pro-0813,Dom Luís I Bridge,OPO_P08,Dom Luís I Bridge (Ponte Luís I),1.0,A_in_catalog,1
+ER_43,B5_00620,PAR,gpt-5.6-sol,Parc des Buttes-Chaumont,PAR_P53,Parc des Buttes-Chaumont,1.0,A_in_catalog,1
+ER_44,B5_00639,CNX,qwen3.7-flash,Wat Phra That Doi Suthep,CNX_P13,Wat Phra That Doi Suthep,1.0,A_in_catalog,1
+ER_45,B5_00789,CNX,qwen3.7-flash,Chiang Mai Butterfly Park & Insectarium,OUT::CNX_chiangmaibutterflyparkinsectariu,(Out-of-Catalog / Non-Catalog),0.0897,B1_out_of_catalog_municipal,1
+ER_46,CL_B5_00101,OPO,claude-sonnet-4-6,Museu Nacional Soares dos Reis,OPO_P31,Museu Nacional Soares dos Reis,1.0,A_in_catalog,1
+ER_47,CL_B5_00489,CNX,claude-sonnet-4-6,Warorot Market (Kad Luang),CNX_P48,Warorot Market (Kad Luang),1.0,A_in_catalog,1
+ER_48,CL_B5_00841,BCN,claude-sonnet-4-6,Magic Fountain of Montjuïc,BCN_P19,Montjuïc Castle & Magic Fountain,1.0,A_in_catalog,1
+ER_49,CL_B5_01229,QZJ,claude-sonnet-4-6,西街历史文化街区,QZJ_P15,West Street (Xijie Pedestrian Area),1.0,A_in_catalog,1
+ER_50,B6_00219,CNX,qwen3.7-flash,Chiang Mai Zoo,CNX_P56,Chiang Mai Zoo & Aquarium,1.0,A_in_catalog,1

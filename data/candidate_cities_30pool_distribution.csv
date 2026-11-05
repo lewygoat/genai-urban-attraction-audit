@@ -1,0 +1,31 @@
+﻿city_id,city,country,origin,osm_pois,wiki_views_k,wikidata_sitelinks,selection_status,composite_Z_info,within_origin_percentile
+BJS,Beijing,China,Domestic,4820,1487.4,258,Selected: Info-Rich,1.372,100.0
+SHA,Shanghai,China,Domestic,4310,1729.4,211,Selected: Info-Rich,1.251,93.3
+CTU,Chengdu,China,Domestic,3190,827.0,114,Selected: Info-Rich,0.513,73.3
+CAN,Guangzhou,China,Domestic,3580,1238.9,145,Unselected Candidate (Rich Stratum),0.838,86.7
+HGH,Hangzhou,China,Domestic,3490,614.1,113,Unselected Candidate (Middle Buffer),0.448,53.3
+SIA,Xi'an,China,Domestic,3120,662.8,121,Unselected Candidate (Rich Stratum),0.469,66.7
+CKG,Chongqing,China,Domestic,2980,1798.8,133,Unselected Candidate (Rich Stratum),0.83,80.0
+NKG,Nanjing,China,Domestic,2490,754.5,125,Unselected Candidate (Middle Buffer),0.439,46.7
+WUH,Wuhan,China,Domestic,2240,539.1,164,Unselected Candidate (Rich Stratum),0.454,60.0
+XMN,Xiamen,China,Domestic,1850,380.5,75,Unselected Candidate (Middle Buffer),-0.216,40.0
+QZJ,Quanzhou,China,Domestic,680,198.5,62,Selected: Info-Scarce,-0.951,33.3
+DLU,Dali,China,Domestic,540,118.6,41,Selected: Info-Scarce,-1.465,13.3
+CHZ,Chaozhou,China,Domestic,590,138.8,57,Unselected Candidate (Scarce Stratum),-1.176,26.7
+JDZ,Jingdezhen,China,Domestic,510,77.0,46,Unselected Candidate (Scarce Stratum),-1.557,6.7
+DTG,Datong,China,Domestic,620,110.9,55,Unselected Candidate (Scarce Stratum),-1.25,20.0
+PAR,Paris,France,International,6450,2951.0,289,Selected: Info-Rich,0.946,93.3
+TYO,Tokyo,Japan,International,5890,3118.6,267,Selected: Info-Rich,0.867,73.3
+BCN,Barcelona,Spain,International,4120,1854.4,202,Selected: Info-Rich,0.277,60.0
+LON,London,United Kingdom,International,6120,3168.9,284,Unselected Candidate (Rich Stratum),0.94,86.7
+NYC,New York,United States,International,5520,5528.9,264,Unselected Candidate (Rich Stratum),1.066,100.0
+ROM,Rome,Italy,International,4980,2471.0,273,Unselected Candidate (Rich Stratum),0.718,66.7
+SIN,Singapore,Singapore,International,3820,5648.8,270,Unselected Candidate (Rich Stratum),0.938,80.0
+SEL,Seoul,South Korea,International,3250,1155.6,222,Unselected Candidate (Middle Buffer),0.058,40.0
+VIE,Vienna,Austria,International,2720,1948.6,242,Unselected Candidate (Middle Buffer),0.267,53.3
+PRG,Prague,Czechia,International,2440,1641.3,222,Unselected Candidate (Middle Buffer),0.081,46.7
+OPO,Porto,Portugal,International,920,637.8,119,Selected: Info-Scarce,-1.224,20.0
+CNX,Chiang Mai,Thailand,International,810,411.1,76,Selected: Info-Scarce,-1.82,6.7
+KYO,Kyoto,Japan,International,1180,947.8,231,Unselected Candidate (Scarce Stratum),-0.42,33.3
+BRU,Bruges,Belgium,International,790,537.9,100,Unselected Candidate (Scarce Stratum),-1.499,13.3
+GRX,Granada,Spain,International,860,624.6,129,Unselected Candidate (Scarce Stratum),-1.196,26.7

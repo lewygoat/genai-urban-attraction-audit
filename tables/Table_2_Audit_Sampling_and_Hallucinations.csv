@@ -1,0 +1,9 @@
+﻿Sampling Batch,API Queries (N),Total POI Slots,10% Rule Cross-Val. (n),Anomaly Cases,Valid JSON (%),In-Catalog 60-POI (%),Unverified / Generic (%),Exurban Spillover (%),Valid Municipal POIs (%),2-Pipeline Agree (%),PABAK,Cohen's Kappa
+"B1: Main Contextual Audit (48 Ctx x 4 Endpoints x 10 Cities x 3 Reps; Planned 5,760, Valid 5,752)",5752,57520,575,197,100.0,87.33%,4.98% (2866),0.51% (294),94.51%,99.83,0.997,0.996
+"B2: Blank Unconditioned Baseline (1 Ctx x 4 Endpoints x 10 Cities x 3 Reps; Planned 120, Valid 119)",119,1190,12,1,100.0,96.64%,1.51% (18),0.17% (2),98.32%,100.0,1.0,1.000
+B3: Cross-Lingual English Prompt Control (12 Ctx x 4 Endpoints x 10 Cities x 2 Reps; N=960),960,9600,96,48,100.0,86.97%,6.48% (622),0.85% (82),92.67%,97.92,0.958,0.958
+B3b: Cross-Lingual Chinese Prompt on Foreign Cities (12 Ctx x 4 Endpoints x 5 Intl Cities x 2 Reps; N=480),480,4800,48,27,100.0,86.71%,6.90% (331),1.46% (70),91.65%,100.0,1.0,1.000
+B4: Paraphrased Prompt Templates T2/T3 (12 Ctx x 2 Tmpl x 4 Endpoints x 10 Cities; N=960),960,9600,96,45,100.0,91.57%,4.52% (434),0.44% (42),95.04%,97.92,0.958,0.958
+"B5: Greedy Decoding Temperature=0.0 Control (12 Ctx x 4 Endpoints x 10 Cities x 3 Reps; N=1,440)",1440,14400,144,52,100.0,90.00%,4.69% (675),0.74% (107),94.57%,100.0,1.0,1.000
+"B6: Intra-Day Temporal Stability Retest (12 Ctx x 4 Endpoints x 10 Cities x 1 Rep; Med. 7.8h, N=480)",480,4800,48,18,100.0,89.69%,5.08% (244),0.58% (28),94.33%,100.0,1.0,1.000
+Total / Overall Corpus (7 Batches: B1-B6 & B3b),10191,101910,1019,388,100.0,88.26%,5.09% (5190),0.61% (625),94.29%,99.51,0.99,0.990

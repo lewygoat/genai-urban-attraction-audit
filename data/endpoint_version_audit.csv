@@ -1,0 +1,6 @@
+﻿endpoint_alias,api_returned_model,model_origin,provider,valid_queries_n,mean_latency_sec,mean_completion_tokens,sha256_verified_pct
+claude-sonnet-4-6,claude-sonnet-4-6,International,relay,2541,20.422,0.0,100.0
+deepseek-v4-pro-0813,deepseek-v4-pro-0813,Domestic,pomo,1424,73.962,4597.8,100.0
+deepseek-v4-pro-0813,deepseek-v4-pro-ga-260813,Domestic,pomo,1126,72.059,4535.0,100.0
+gpt-5.6-sol,gpt-5.6-sol,International,pomo,2550,36.576,1071.7,100.0
+qwen3.7-flash,qwen3.7-flash,Domestic,pomo,2550,48.774,4671.1,100.0
